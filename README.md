@@ -24,7 +24,7 @@ Inclui:
 - Esmeralda
 
 ## 📦 Instalação
-1. Baixe o plugin [`noore-1.1.jar`](https://github.com/Morpheus-nox/noore/releases).
+1. Baixe o plugin [`noore-1.1.jar`]((https://github.com/Morpheus-nox/NoOre-Plugin/releases)).
 2. Coloque o `.jar` em `plugins/`.
 3. Reinicie ou inicie seu servidor.
 
