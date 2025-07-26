@@ -1,0 +1,6 @@
+name: NoOreGen
+version: 1.1
+main: com.morpheus.noore.NoOreGenPlugin
+api-version: 1.20
+author: Morpheus
+description: Remove a geração de minérios em novos chunks.
