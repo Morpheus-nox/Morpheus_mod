@@ -9,7 +9,7 @@
 
 ## ✅ Compatibilidade
 - Compatível com **todas as versões 1.21.x** (1.21.0 até 1.21.6).
-- Requer **Java 21** e qualquer servidor baseado em Bukkit/Spigot/Paper/Purpur.
+- Requer **Java 21** e qualquer servidor baseado em Paper/Purpur.
 - Desenvolvido e testado em **Purpur 1.21.6**.
 
 ## 🧱 Minérios bloqueados
