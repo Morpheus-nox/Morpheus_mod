@@ -1,6 +1,6 @@
 # 🪨 NoOreGen
 
-**Plugin para servidores Minecraft 1.21.x (Purpur, Spigot, Paper, etc.)** que **impede totalmente a geração de minérios** em novos chunks.
+**Plugin para servidores Minecraft 1.21.x (Purpur e Paper.)** que **impede totalmente a geração de minérios** em novos chunks.
 
 ## 🔧 Funcionalidade
 - Remove todos os minérios gerados automaticamente em novos chunks.
